@@ -1,0 +1,1 @@
+{"version":3,"sources":["variables.css"],"names":[],"mappings":"AAAA,MACE,eAAgB,CAChB,sBACF","file":"variables.b3373548.css","sourceRoot":"..\\src","sourcesContent":[":root {\n  --color: #00acdc;\n  --nav_item--color: #000;\n}\n"]}
